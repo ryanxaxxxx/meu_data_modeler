@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="teste_git" id="2509E3C7-B1E8-7D50-48BB-4E2A8E81FEB3" version="3.5">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2024-05-02 13:30:41 UTC</createdTime>
+<ownerDesignName>teste_git</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>2509E3C7-B1E8-7D50-48BB-4E2A8E81FEB3</designId>
+</OSDM_Design>
